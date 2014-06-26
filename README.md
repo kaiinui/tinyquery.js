@@ -9,4 +9,4 @@ little jQuery
 - $$.css
 - $$.on 
 
-- $.each
+- $$.each
