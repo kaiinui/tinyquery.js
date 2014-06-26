@@ -1,0 +1,4 @@
+tinyquery.js
+============
+
+little jQuery
